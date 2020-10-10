@@ -1,11 +1,3 @@
-
-### Name: Keshav Agrawal
-
-- Place: Kota, India
-- Bio: Full Stack Web Developer,Python Django Developer.
-- GitHub: [Keshav04042001](https://github.com/Keshav04042001)
-
-
 ### Name: SantoshVijapure
 
 - Place: Pune, India
@@ -330,8 +322,3 @@
 - Place: Pune, India
 - Bio: Cs
 - GitHub: (https://github.com/Tagsahil)
-
-### Name: Hridya Krishna R
-- Place: Kerala, India
-- Bio: Btech Computer science
-- Github: [hridyakrishna] (https://github.com/hridyakrishna)
